@@ -1,0 +1,25 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "Front End com React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gropp/Front_End_Reactjs.git"
+  },
+  "author": "Fernando Gropp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gropp/Front_End_Reactjs/issues"
+  },
+  "homepage": "https://github.com/Gropp/Front_End_Reactjs#readme",
+  "dependencies": {
+    "jfx": "^0.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1"
+  }
+}
